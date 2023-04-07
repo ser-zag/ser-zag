@@ -3,5 +3,5 @@
 <div align="center">
   
 [🔗 LinkedIn](https://www.linkedin.com/in/serg-zagr/)
-📧  work@sergeizagrebnev.com 
-📞  (236)-999-9138 </div>
+📞  (236)-999-9138 
+📧  work@sergeizagrebnev.com </div>
